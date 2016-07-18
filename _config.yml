@@ -1,0 +1,14 @@
+layout_spectrum: 0.17402075580321252
+typography_spectrum: 0.6439442995470017
+color:
+  brandStrength: 0.216790301958099
+  lightness: 0.7496968470513821
+  saturation: 0.05731568578630686
+  rhythmicContrast: 0.5418336039874703
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Eyebro Browser
